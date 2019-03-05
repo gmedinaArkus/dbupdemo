@@ -1,0 +1,2 @@
+﻿ALTER TABLE Aliens
+DROP COLUMN Address;

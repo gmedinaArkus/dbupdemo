@@ -1,0 +1,2 @@
+﻿ALTER TABLE Persons
+ADD NewColumn VARCHAR(35);

@@ -1,0 +1,2 @@
+﻿ALTER TABLE Aleins
+ADD OtherColumn VARCHAR(35);
